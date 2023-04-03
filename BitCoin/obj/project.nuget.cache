@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWO1hWtx6/d7gMt/8rrWW3p+a+2qNJ6J4tJk0qvyGSh4swZ53wls/kUoYDq+SUy1JYmr+8WFHapHFxZhcbeKxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noormees\\source\\repos\\BitCoin\\BitCoin\\BitCoin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noormees\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Noormees\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
